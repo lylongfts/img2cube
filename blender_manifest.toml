@@ -7,7 +7,7 @@ tagline = "Camera-match a photo from drawn lines, then drop 3D snap points"
 maintainer = "Long Live The Cube <lylongfts@users.noreply.github.com>"
 type = "add-on"
 
-website = "https://github.com/lylongfts"
+website = "https://github.com/lylongfts/img2cube"
 
 tags = ["3D View", "Camera", "Modeling"]
 

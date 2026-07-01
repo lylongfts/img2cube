@@ -53,8 +53,8 @@ to match the real perspective is tedious and error-prone.
 ## Install
 
 1. Download `img2cube-x.x.x.zip` from either:
-   - 🟠 **Gumroad**: [lylongsoul.gumroad.com](https://lylongsoul.gumroad.com)
-   - 🐙 **GitHub Releases**: [github.com/lylongfts](https://github.com/lylongfts)
+   - 🟠 **Gumroad** (recommended): [lylongsoul.gumroad.com/l/qbvoyo](https://lylongsoul.gumroad.com/l/qbvoyo)
+   - 🐙 **GitHub Releases**: [github.com/lylongfts/img2cube/releases](https://github.com/lylongfts/img2cube/releases)
 2. Drag the zip into Blender, or: Edit → Preferences → Get Extensions → Install from Disk.
 3. Done. Open an image in the **Image Editor** → N-panel → **img2cube** tab.
 
