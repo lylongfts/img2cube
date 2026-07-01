@@ -20,5 +20,3 @@ license = [
 # No bundled wheels: the solver uses only numpy + mathutils, both shipped with
 # Blender. This keeps the extension easy to review on extensions.blender.org.
 
-[permissions]
-# none required
