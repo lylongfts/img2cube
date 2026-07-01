@@ -1,0 +1,24 @@
+schema_version = "1.0.0"
+
+id = "img2cube"
+version = "1.0.6"
+name = "img2cube"
+tagline = "Camera-match a photo from drawn lines, then drop 3D snap points"
+maintainer = "Long Live The Cube <lylongfts@users.noreply.github.com>"
+type = "add-on"
+
+website = "https://github.com/lylongfts"
+
+tags = ["3D View", "Camera", "Modeling"]
+
+blender_version_min = "4.2.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+
+# No bundled wheels: the solver uses only numpy + mathutils, both shipped with
+# Blender. This keeps the extension easy to review on extensions.blender.org.
+
+[permissions]
+# none required
