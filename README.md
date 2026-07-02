@@ -52,11 +52,20 @@ to match the real perspective is tedious and error-prone.
 
 ## Install
 
+**Method 1: Direct Install (Recommended)**
+The easiest way for Blender 4.2+ users.
+1. In Blender, go to `Edit` → `Preferences` → `Get Extensions`.
+2. Search for **img2cube** and click **Install**.
+   - 🌐 **Official Store:** [extensions.blender.org/add-ons/img2cube](https://extensions.blender.org/add-ons/img2cube/)
+
+**Method 2: Manual Download (.zip)**
 1. Download `img2cube-x.x.x.zip` from either:
-   - 🟠 **Gumroad** (recommended): [lylongsoul.gumroad.com/l/qbvoyo](https://lylongsoul.gumroad.com/l/qbvoyo)
+   - 🟠 **Gumroad** (Support the dev): [lylongsoul.gumroad.com/l/qbvoyo](https://lylongsoul.gumroad.com/l/qbvoyo)
    - 🐙 **GitHub Releases**: [github.com/lylongfts/img2cube/releases](https://github.com/lylongfts/img2cube/releases)
-2. Drag the zip into Blender, or: Edit → Preferences → Get Extensions → Install from Disk.
-3. Done. Open an image in the **Image Editor** → N-panel → **img2cube** tab.
+2. Drag the zip into Blender, or: `Edit` → `Preferences` → `Get Extensions` → drop-down menu → `Install from Disk`.
+
+---
+**Done.** Open an image in the **Image Editor** → N-panel → **img2cube** tab.
 
 ## Usage — 5-Step Workflow
 
